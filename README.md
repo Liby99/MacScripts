@@ -1,6 +1,6 @@
 # Mac Scripts
 
-## Usage:
+## Usage
 
 1. Clone the repository into a directory.
 2. Add the directory path to `$PATH` in `~/.bash_profile`:
@@ -15,10 +15,10 @@ $ source ~/.bash_profile
 
 ## Script List
 
-### `hidehidden`
+##### `hidehidden`
 
 Hide all the hidden files and reload finder
 
-### `showhidden`
+##### `showhidden`
 
 Show all the hidden files and reload finder
